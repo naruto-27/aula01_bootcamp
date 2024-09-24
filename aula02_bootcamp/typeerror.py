@@ -25,3 +25,6 @@ if isinstance(numero, int):
     print("A variável não é um inteiro.")
 else:
     print("A variável não mé um inteiro.")
+
+
+
